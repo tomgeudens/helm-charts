@@ -4,8 +4,9 @@ This file documents all notable changes to [Gravitee.io Access Management 3.x](h
 
 ### 1.0.34
 
-- Make app.kubernetes.io/version label consistent
-- Add quotes to version to fix #6450
+- [X] Make app.kubernetes.io/version label consistent
+- [X] Add quotes to version to fix #6450
+- [X] Ensure file doesn't exist before downloading it
 
 ### 1.0.33
 

@@ -4,14 +4,13 @@ This file documents all notable changes to [Gravitee.io API Management 3.x](http
 
 ### 3.1.33
 
-- Make app.kubernetes.io/version label consistent
-- Add quotes to version to fix #6450
+- [X] Make app.kubernetes.io/version label consistent
+- [X] Add quotes to version to fix #6450
+- [X] Ensure file doesn't exist before downloading it
 
 ### 3.1.32
 
-- [X] Add support for revisionHistoryLimit
-- [X] Add support for ES reporter ingest plugins configuration
-- Update gravitee.io APIM v3.11.3
+- [X] Update gravitee.io APIM v3.11.3
 
 ### 3.1.31
 
